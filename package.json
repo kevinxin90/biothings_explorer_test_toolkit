@@ -1,0 +1,31 @@
+{
+  "name": "@biothings-explorer/biothings_explorer_test_toolkit",
+  "version": "1.0.0",
+  "description": "Toolkit for generating ids to test biothings explorer related applications",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinxin90/biothings_explorer_test_toolkit.git"
+  },
+  "keywords": [
+    "test",
+    "biothings",
+    "explorer"
+  ],
+  "author": "jiwen xin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinxin90/biothings_explorer_test_toolkit/issues"
+  },
+  "homepage": "https://github.com/kevinxin90/biothings_explorer_test_toolkit#readme",
+  "dependencies": {
+    "@arg-def/dot-notation": "^0.1.6",
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}

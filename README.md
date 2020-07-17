@@ -1,11 +1,12 @@
 [![Build Status](https://travis-ci.com/kevinxin90/biothings_explorer_test_toolkit.svg?branch=master)](https://travis-ci.com/kevinxin90/biothings_explorer_test_toolkit)
-Toolkit for generating random biomedical ids for testing biothings explorer related applications
 [![Coverage Status](https://coveralls.io/repos/github/kevinxin90/biothings_explorer_test_toolkit/badge.svg?branch=master)](https://coveralls.io/github/kevinxin90/biothings_explorer_test_toolkit?branch=master)
 <a href="https://github.com/kevinxin90/biothings_explorer_test_toolkit#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
 
 # biothings_explorer_test_toolkit
+
+Toolkit for generating random biomedical ids for testing biothings explorer related applications
 
 ## Install
 

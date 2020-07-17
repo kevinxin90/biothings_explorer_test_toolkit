@@ -1,6 +1,6 @@
 {
   "name": "@biothings-explorer/biothings_explorer_test_toolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Toolkit for generating ids to test biothings explorer related applications",
   "main": "src/index.js",
   "scripts": {
